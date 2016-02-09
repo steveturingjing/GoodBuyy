@@ -1,0 +1,40 @@
+
+Displays Welcome. Prompts user to enter account number. 5-digit
+
+Enters PIN associates with the account number. 5-digit
+
+Correct: Main menu 1 view my balance 2 withdraw cash 3 deposit funds 4 exit
+Incorrect: Prompts user to enter account number
+
+View balance: show balance
+Main menu
+
+Withdraw cash: 1 20 2 50 3 100 4 cancel
+account balance; 1 enter a smaller amount 2 cancel
+remind the user to take out the money
+Show account balance
+Main menu
+
+Deposit funds: Enter the amount
+Show account balance
+Main menu
+
+Exit
+Thank you
+
+
+
+
+
+
+     ATM       				USER
+     [Field]				[FIELD]
+     						Balance:10000
+    						Account:12345
+    						PIN:12345
+     [Method]
+     Withdraw				
+     Deposit				
+     Show balance
+     Authentication
+     Show Menu
